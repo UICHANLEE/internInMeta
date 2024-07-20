@@ -10,6 +10,8 @@
 1. 상품리스트
 2. 상품들을 3*3화면으로 구성
 3. 720px로 사진화면
+## 추가기능
+1. 무한 스크롤 기능
 =======
 # Getting Started with Create React App
 
